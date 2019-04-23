@@ -13,3 +13,5 @@ Training repo
 Objective 1
 <br>
 Learn how to use GitHub
+
+<br> :slightly_smiling_face:
