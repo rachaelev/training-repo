@@ -15,3 +15,8 @@ Objective 1
 Learn how to use GitHub
 
 <br> :slightly_smiling_face:
+
+<br>
+Added extra training brance
+<br>
+:watermelon:
